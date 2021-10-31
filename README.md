@@ -19,5 +19,5 @@ Richie Goulazian
 Ming Wang
 * Pitt CS, 2022
 * zhw78@pitt.edu
-* He smells like a baka
+* He smell
 * https://www.linkedin.com/in/zhengmingwang/
