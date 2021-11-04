@@ -1,23 +1,18 @@
-# CSC Hacks Sample Project Repo
-
-This repo is an example of a team project repository that meets all of [the repository requirements](https://www.notion.so/CSC-Hacks-901a62e005c8494fa342e0cc738101ad#da206965e3ed497f9bd6c1ceebd4fac9). Feel free to download / clone this repository as a starting point.
+# Ruchi's Eco-cation Website Repo
 
 ## Project Description
 *This is intentionally open-ended, but consider that people will be reading this to get a brief understanding of what you're working on.* Some ideas are:
-* We want to accomplish x, y, z, using technologies x, y, z.
-* We want to do this because of x, y, z.
-* Doing this will require learning x, y, z.
-* We anticipate the following challenges: x, y, z.
+We wanted to code a website where we could freely post our research on the environment using the IDE repl.it.
+We want to do this because not only is it a passion of ours, it helps to educate others.
+Doing this will require learning html, CSS, and JavaScript. In these languages the main things to learn are hyperlinking, adding an image, adding blank lines, creating a box, using different fonts, colors, and alignment for text, etc. 
+We anticipate the following challenges: figuring out how to accomplish the more complicated tasks like adding a a box in the exact spot and the exact way we want it.
 
 ## Team Information
-Richie Goulazian
-* Pitt CS, 2023
-* rgoulazian@pitt.edu
-* Richie78321 in the CSC Discord
-* Check out my portfolio site! https://rgoulazian.com/
+Ruchi Hegde
+* Pitt CS, 2025
+* ruh32@pitt.edu
+* ruchi#8997 in the CSC Discord
 
-Ming Wang
-* Pitt CS, 2022
-* zhw78@pitt.edu
-* He smell
-* https://www.linkedin.com/in/zhengmingwang/
+Sally Zhang
+* Pitt CS, 2025
+* saz53@pitt.edu
