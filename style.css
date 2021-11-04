@@ -1,0 +1,13 @@
+p {
+  text-align: center;
+  color: #1a511a;
+  font-family: Futura;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+a {
+  color: inherit;
+}
