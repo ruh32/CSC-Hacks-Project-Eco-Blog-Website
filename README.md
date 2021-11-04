@@ -16,3 +16,5 @@ Sally Zhang
 * Pitt Math, 2025
 * CS minor
 * saz53@pitt.edu
+
+Note: The ones that are just called add files by upload are the members page. The other ones should be named. I had a couple of them go through blank and I did not know how to delete them, so just a heads up they are also there. I have never used Github before so this is quite the learning process. 
