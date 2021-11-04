@@ -13,5 +13,6 @@ Ruchi Hegde
 * ruchi#8997 in the CSC Discord
 
 Sally Zhang
-* Pitt CS, 2025
+* Pitt Math, 2025
+* CS minor
 * saz53@pitt.edu
