@@ -3,6 +3,11 @@ p {
   color: #1a511a;
   font-family: Futura;
 }
+.one{
+  font-family: Verdana;
+  font-size: 50px;
+  color: black;
+}
 .center {
   display: block;
   margin-left: auto;
