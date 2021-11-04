@@ -1,7 +1,6 @@
 # Ruchi's Eco-cation Website Repo
 
 ## Project Description
-*This is intentionally open-ended, but consider that people will be reading this to get a brief understanding of what you're working on.* Some ideas are:
 We wanted to code a website where we could freely post our research on the environment using the IDE repl.it.
 We want to do this because not only is it a passion of ours, it helps to educate others.
 Doing this will require learning html, CSS, and JavaScript. In these languages the main things to learn are hyperlinking, adding an image, adding blank lines, creating a box, using different fonts, colors, and alignment for text, etc. 
