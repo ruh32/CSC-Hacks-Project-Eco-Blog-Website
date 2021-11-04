@@ -1,22 +1,12 @@
-.one {
+p {
   text-align: center;
   color: #1a511a;
   font-family: Futura;
 }
-h1{
-  color:#228B22;
-  text-align: center;
-  font-family: Geneva;
-}
-h4{
-  font-family: Geneva; 
-}
-.two{
-  font-family: Geneva;
-  font-size: 15px;
-}
-.redText{
- color: red;
+.one{
+  font-family: Verdana;
+  font-size: 50px;
+  color: black;
 }
 .center {
   display: block;
@@ -25,23 +15,4 @@ h4{
 }
 a {
   color: inherit;
-}
-.wrapper{
-  text-align: center;
-}
-.child {
-  display: inline-block;
-  border: 3px solid gray;
-  padding: 1rem 1rem;
-  vertical-align: middle;
-  height : 375px;
-  width: 375px;
-  margin: -4px;
-}
-.child img{
-  width: 100%;
-  height: 100%;
-}
-.child img {
-  object-fit: contain;
 }
